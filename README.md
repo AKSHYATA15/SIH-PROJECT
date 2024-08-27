@@ -1,5 +1,6 @@
 # SIH-PROJECT
-#This project is part of our Smart India Hackathon grand final prototype, which aims to enhance the authenticity verification of products displayed on e-commerce websites. The prototype implements a two-step verification process:
+
+This project is part of our Smart India Hackathon grand final prototype, which aims to enhance the authenticity verification of products displayed on e-commerce websites. The prototype implements a two-step verification process:
 
 Logo Authenticity Check: The first step involves analyzing the brand's logo on the product and calculating a similarity score to determine whether the logo is genuine or counterfeit.
 
